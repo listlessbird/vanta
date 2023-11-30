@@ -1,5 +1,5 @@
 {
-  "name": "vanta",
+  "name": "@listlessbird/vanta",
   "version": "0.5.24",
   "description": "3D animated backgrounds for your website",
   "main": "src/_base.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tengbao/vanta"
+    "url": "https://github.com/listlessbird/vanta"
   },
   "keywords": [
     "animation",
